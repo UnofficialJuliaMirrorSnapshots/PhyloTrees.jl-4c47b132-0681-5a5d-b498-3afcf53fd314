@@ -1,0 +1,13 @@
+name = "PhyloTrees"
+uuid = "4c47b132-0681-5a5d-b498-3afcf53fd314"
+authors = ["justin <justinangevaare@gmail.com>"]
+version = "0.10.0"
+
+[compat]
+julia = "≥ 1.0.0"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
